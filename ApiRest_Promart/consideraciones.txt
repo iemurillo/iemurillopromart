@@ -1,0 +1,8 @@
+
+-cambiar la cadena de conexion esta en el appsettings.json
+-metodo get devuelve todo usando store procedure: https://localhost:xxxx/api/empleado
+-metodo get devuelve por id https://localhost:xxxx/api/empleado/1
+-metodo post y put probarlo con postman con id body raw application/json
+-metodo delete probarlo con postman con id
+
+

@@ -1,0 +1,14 @@
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\bin\Debug\netcoreapp3.1\ConsumirApi.exe
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\bin\Debug\netcoreapp3.1\ConsumirApi.deps.json
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\bin\Debug\netcoreapp3.1\ConsumirApi.runtimeconfig.json
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\bin\Debug\netcoreapp3.1\ConsumirApi.runtimeconfig.dev.json
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\bin\Debug\netcoreapp3.1\ConsumirApi.dll
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\bin\Debug\netcoreapp3.1\ConsumirApi.pdb
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\obj\Debug\netcoreapp3.1\ConsumirApi.AssemblyInfoInputs.cache
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\obj\Debug\netcoreapp3.1\ConsumirApi.AssemblyInfo.cs
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\obj\Debug\netcoreapp3.1\ConsumirApi.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\obj\Debug\netcoreapp3.1\ConsumirApi.csproj.CopyComplete
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\obj\Debug\netcoreapp3.1\ConsumirApi.dll
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\obj\Debug\netcoreapp3.1\ConsumirApi.pdb
+C:\Users\Diana\source\repos\ConsumirApiPost\ConsumirApiPost\obj\Debug\netcoreapp3.1\ConsumirApi.genruntimeconfig.cache
